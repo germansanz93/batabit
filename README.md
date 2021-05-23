@@ -1,0 +1,1 @@
+A simply responsive design landing page 
